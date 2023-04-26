@@ -5,5 +5,5 @@
 ![Godot](https://img.shields.io/badge/Godot-grey?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=8E2DE2)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StellarisJAY&show_icons=true&)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarisJAY&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarisJAY&hide=javascript&layout=compact&size_weight=0.8&count_weight=0.2)
 ![](https://raw.githubusercontent.com/StellarisJAY/StellarisJAY/output/github-contribution-grid-snake.svg)
