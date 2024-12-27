@@ -1,9 +1,23 @@
-# <👋Hello World!/>
-![Golang](https://img.shields.io/badge/Go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
-![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=8E2DE2)
-![Godot](https://img.shields.io/badge/Godot-grey?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=8E2DE2)
+<h1 align="center">fmt.Println("Hello World!👋")</h1>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StellarisJAY&show_icons=true&)
+<div align="center">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff"/>
+</div>
+
+<p align="center">
+  <strong>Keep on! Keeping on!</strong>
+</p>
+
+<div align="center">
+  <img alt="GIF" src="https://images-1257369645.cos.ap-chengdu.myqcloud.com/web/gopher.gif#pic_center"/>  
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarisJAY&hide=javascript&layout=compact&size_weight=0.8&count_weight=0.2)
-![](https://raw.githubusercontent.com/StellarisJAY/StellarisJAY/output/github-contribution-grid-snake.svg)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StellarisJAY&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+
